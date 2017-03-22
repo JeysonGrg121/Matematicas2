@@ -9,7 +9,12 @@ package matematicas1;
  *
  * @author Carlos
  */
-public class Matematicas1 {
+public class Main {
 
-
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Menu menu1 = new Menu();
+        
+    }
+    
 }
